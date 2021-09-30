@@ -10,8 +10,6 @@ app.use(cors({
     origin: '*'
 }));
 
-app.set('view engine','ejs');
-
 
 mongoose.set('useUnifiedTopology', true);
 mongoose.connect('mongodb://localhost/angularJsNodeDEMC',{useNewUrlParser: true});

@@ -7,7 +7,7 @@ Installation of MultipleInputsProject
 
 # Nodejs Installation
 
-1. Install nodejs version above 10 and above.
+1. Install nodejs version 10 or above.
 2. Please make sure you have a mongodb server or install form https://dl.mongodb.org/dl/win32/x86_64
 3. Using 'mongodb-win32-x86_64-2012plus-4.2.3-signed.msi' in my system.
 
