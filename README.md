@@ -24,7 +24,7 @@ Installation of MultipleInputsProject
      git clone https://github.com/kunjarani/MultipleInputsProject.git
 
 4. This creates a new folder " MultipleInputsProject " containg code.
-5. Run " npm install " in folder AngularNodeDEMC/
+5. Run " npm install " in folder MultipleInputsProject/
 6. This is get the node modules and dependencies.
 
 
